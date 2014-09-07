@@ -1,0 +1,97 @@
+總指數  General Index
+
+一.食物類   Food
+1.穀類及其製品 Cereals & Cereal Products
+(1)米類及其製品 Rice & Rice Products
+(2)其他穀類及其製品 Other Cereals & Cereal Products
+
+2.肉類    Meats
+(1)生鮮家畜 Pork, Beef & Mutton
+(2)生鮮家禽 Poultry
+
+3.肉類製品    Meat Products
+4.蛋類    Eggs
+5.水產品  Fish & Seafood
+6.加工水產品  Processed Fish & Seafood
+7.蔬菜    Vegetables
+(1)根菜 Root Vegetables
+(2)莖菜 Stem Vegetables
+(3)葉菜 Leaf Vegetables
+(4)果菜及其他   Fruit Vegetables & Other Vegetables
+
+8.加工蔬菜    Processed Vegetables
+9.水果    Fruits
+10.加工水果 Processed Fruits
+11.乳類 Dairy Products
+12.食用油   Edible Oil
+13.調味品   Condiments
+14.酒   Alcoholic Beverages
+15.非酒精性飲料及材料   Nonalcoholic Beverages & Beverage Materials
+16.調理食品 Cooked Food
+17.外食費   Food Away from Home
+18.其他食品 Other Food
+
+二.衣著類   Clothing
+1.成衣    Garments
+(1)男人衣著 Men's Garments
+(2)女人衣著 Women's Garments
+(3)兒童衣著及學生制服   Children's Garments
+
+2.鞋類    Footwear
+3.衣著服務及配件  Apparel Services & Accessories
+
+三.居住類   Housing
+1.房租    Residential Rent
+2.住宅維修費  Maintenance & Repair of Dwellings
+(1)維修材料 Materials For Maintenance & Repair
+(2)維修服務 Services For Maintenance & Repair
+
+3.家庭用品    Household Appliances
+(1)紡織品   Fabric Products
+(2)家具 Furniture
+(3)家庭耐久設備 Household Durable Equipment
+(4)餐具及其他家用品 Tableware & Other Utensils
+
+4.家庭管理費用    Household Operations
+5.水電燃氣    Water , Electricity & Gas Supply
+(1)燃氣 Gas
+(2)水費 Water
+(3)電費 Electricity
+(4)公共附加費   Public Service Charges
+
+四.交通及通訊類 Transportation & Communication
+1.交通設備    Equipment For Transportation & Communication
+(1)交通工具 Vehicles
+(2)通訊設備 Communication Equipment
+
+2.油料費  Fuels & Lubricants
+3.交通服務及維修零件  Services and Vehicle Parts For Transportation & Communication
+(1)運輸費   Transportation Fees
+(2)通訊費   Communication Fees
+(3)交通工具零件及維修費 Vehicle Parts & Maintenance
+(4)其他交通服務費   Others
+
+五.醫藥保健類   Health
+1.醫療費用    Medical Care Services
+2.藥品及保健食品  Medicines & Health Food
+3.醫療保健器材    Medical Supplies & Appliance
+
+六.教養娛樂類   Education & Entertainment
+1.教養費用    Educational Expenses
+(1)書報期刊 Book , Newspaper & Periodical
+(2)學雜費   Tuition & Miscellaneous Fees
+(3)補習及學習費 Tutorial Fees
+(4)教養設備及用具   Educational Equipment & Goods
+
+2.娛樂費用    Entertainment Expenses
+(1)娛樂設備 Equipment For Entertainment
+(2)娛樂服務 Services For Entertainment
+
+七.雜項類   Miscellaneous
+1.香菸及檳榔  Tobacco & Betel Nuts
+2.美容及衛生用品  Cosmetic Items
+3.個人隨身用品    Personal Effects
+4.個人服務    Services For Nursery & Nursing Care
+5.理容服務費  Services For Personal Care
+6.其他    Other Miscellaneous Expenses
+
